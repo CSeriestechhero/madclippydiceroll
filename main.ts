@@ -20,7 +20,7 @@ input.onGesture(Gesture.Shake, function () {
         basic.showNumber(2)
     } else if (x == 1) {
         basic.showNumber(1)
-    } else if (x == 7) {
+    } else if (x == 6) {
         basic.showLeds(`
             # # # . .
             # . # . .
